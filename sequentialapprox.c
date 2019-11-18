@@ -1,9 +1,8 @@
 /*
 *Seth Schaller
-*assn3 - Approximating Pi
-*Sequential Version with for loop
-*10/22/2019
+*Sequentially Approximating Pi
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
